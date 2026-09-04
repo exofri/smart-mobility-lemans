@@ -1,4 +1,4 @@
-import csv, io, math, zipfile
+import csv, io, math, os, zipfile
 import requests
 import pandas as pd
 
@@ -81,6 +81,7 @@ def main():
     )
 
     freq = freq.sort_values("daily_trip_count", ascending=False)
+    os.makedirs("data/gtfs_static", exist_ok=True)
     freq.to_csv("data/gtfs_static/stops_frequency.csv", index=False)
     routes[["route_id", "route_short_name", "route_long_name", "route_type"]].to_csv(
         "data/gtfs_static/routes.csv", index=False
