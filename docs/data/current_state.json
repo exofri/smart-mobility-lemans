@@ -1,65 +1,38 @@
 {
-  "generated_at": "2026-09-04T20:25:09Z",
-  "network_avg_delay_s": -10.6,
-  "n_routes_reporting": 5,
+  "generated_at": "2026-09-04T22:30:15Z",
+  "network_avg_delay_s": -12.7,
+  "n_routes_reporting": 3,
   "routes": [
     {
-      "route_id": "5",
-      "n_trips_observed": 5,
-      "n_stop_updates": 133,
-      "n_skipped": 2,
-      "avg_delay_s": 106.3,
-      "max_delay_s": 444,
-      "snapshot_ts": 1788553509,
-      "route_name": "5"
+      "route_id": "T3",
+      "n_trips_observed": 2,
+      "n_stop_updates": 28,
+      "n_skipped": 0,
+      "avg_delay_s": 0.0,
+      "max_delay_s": 0,
+      "snapshot_ts": 1788561015,
+      "route_name": "T3"
     },
     {
       "route_id": "T1",
-      "n_trips_observed": 15,
-      "n_stop_updates": 360,
+      "n_trips_observed": 7,
+      "n_stop_updates": 168,
       "n_skipped": 0,
-      "avg_delay_s": -13.6,
-      "max_delay_s": 93,
-      "snapshot_ts": 1788553509,
+      "avg_delay_s": -7.9,
+      "max_delay_s": 101,
+      "snapshot_ts": 1788561015,
       "route_name": "T1"
     },
     {
       "route_id": "T2",
-      "n_trips_observed": 11,
-      "n_stop_updates": 198,
+      "n_trips_observed": 4,
+      "n_stop_updates": 72,
       "n_skipped": 0,
-      "avg_delay_s": -18.3,
-      "max_delay_s": 69,
-      "snapshot_ts": 1788553509,
+      "avg_delay_s": -30.1,
+      "max_delay_s": 24,
+      "snapshot_ts": 1788561015,
       "route_name": "T2"
-    },
-    {
-      "route_id": "T3",
-      "n_trips_observed": 9,
-      "n_stop_updates": 126,
-      "n_skipped": 0,
-      "avg_delay_s": -26.6,
-      "max_delay_s": 99,
-      "snapshot_ts": 1788553509,
-      "route_name": "T3"
-    },
-    {
-      "route_id": "C4",
-      "n_trips_observed": 7,
-      "n_stop_updates": 210,
-      "n_skipped": 0,
-      "avg_delay_s": -101.0,
-      "max_delay_s": 155,
-      "snapshot_ts": 1788553509,
-      "route_name": "C4"
     }
   ],
-  "alerts": [
-    {
-      "alert_id": "21",
-      "routes": "5",
-      "header": "TEST MESSAGE SERVEUR IV",
-      "snapshot_ts": 1788553509
-    }
-  ]
+  "alerts": []
 }
