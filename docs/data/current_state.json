@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-09-05T23:24:31Z",
-  "network_avg_delay_s": -50.2,
-  "n_routes_reporting": 1,
-  "routes": [
+  "generated_at": "2026-09-06T01:16:05Z",
+  "network_avg_delay_s": 0.0,
+  "n_routes_reporting": 0,
+  "routes": [],
+  "alerts": [
     {
-      "route_id": "T1",
-      "n_trips_observed": 2,
-      "n_stop_updates": 48,
-      "n_skipped": 0,
-      "avg_delay_s": -50.2,
-      "max_delay_s": 30,
-      "snapshot_ts": 1788650671,
-      "route_name": "T1"
+      "alert_id": "19",
+      "routes": "5",
+      "header": "TEST MESSAGE SERVEUR IV",
+      "snapshot_ts": 1788657365
     }
-  ],
-  "alerts": []
+  ]
 }
