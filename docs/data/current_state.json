@@ -1,65 +1,38 @@
 {
-  "generated_at": "2026-09-12T20:35:52Z",
-  "network_avg_delay_s": -18.8,
-  "n_routes_reporting": 5,
+  "generated_at": "2026-09-12T22:35:31Z",
+  "network_avg_delay_s": -16.4,
+  "n_routes_reporting": 3,
   "routes": [
     {
-      "route_id": "5",
-      "n_trips_observed": 6,
-      "n_stop_updates": 159,
-      "n_skipped": 18,
-      "avg_delay_s": 38.9,
-      "max_delay_s": 240,
-      "snapshot_ts": 1789245352,
-      "route_name": "5"
-    },
-    {
       "route_id": "T1",
-      "n_trips_observed": 14,
-      "n_stop_updates": 336,
+      "n_trips_observed": 6,
+      "n_stop_updates": 144,
       "n_skipped": 0,
-      "avg_delay_s": -18.6,
-      "max_delay_s": 102,
-      "snapshot_ts": 1789245352,
+      "avg_delay_s": 12.4,
+      "max_delay_s": 143,
+      "snapshot_ts": 1789252531,
       "route_name": "T1"
     },
     {
       "route_id": "T2",
-      "n_trips_observed": 12,
-      "n_stop_updates": 216,
+      "n_trips_observed": 4,
+      "n_stop_updates": 72,
       "n_skipped": 0,
-      "avg_delay_s": -26.2,
-      "max_delay_s": 49,
-      "snapshot_ts": 1789245352,
+      "avg_delay_s": -24.5,
+      "max_delay_s": 67,
+      "snapshot_ts": 1789252531,
       "route_name": "T2"
     },
     {
       "route_id": "T3",
-      "n_trips_observed": 7,
-      "n_stop_updates": 98,
+      "n_trips_observed": 2,
+      "n_stop_updates": 28,
       "n_skipped": 0,
-      "avg_delay_s": -35.2,
-      "max_delay_s": 30,
-      "snapshot_ts": 1789245352,
+      "avg_delay_s": -37.0,
+      "max_delay_s": 47,
+      "snapshot_ts": 1789252531,
       "route_name": "T3"
-    },
-    {
-      "route_id": "C4",
-      "n_trips_observed": 5,
-      "n_stop_updates": 145,
-      "n_skipped": 0,
-      "avg_delay_s": -53.0,
-      "max_delay_s": 15,
-      "snapshot_ts": 1789245352,
-      "route_name": "C4"
     }
   ],
-  "alerts": [
-    {
-      "alert_id": "14",
-      "routes": "5",
-      "header": "TEST MESSAGE SERVEUR IV",
-      "snapshot_ts": 1789245352
-    }
-  ]
+  "alerts": []
 }
