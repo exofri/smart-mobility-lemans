@@ -1,28 +1,14 @@
 {
-  "generated_at": "2026-09-20T23:11:47Z",
-  "network_avg_delay_s": -70.0,
-  "n_routes_reporting": 2,
-  "routes": [
+  "generated_at": "2026-09-21T01:08:16Z",
+  "network_avg_delay_s": 0.0,
+  "n_routes_reporting": 0,
+  "routes": [],
+  "alerts": [
     {
-      "route_id": "T1",
-      "n_trips_observed": 2,
-      "n_stop_updates": 48,
-      "n_skipped": 0,
-      "avg_delay_s": -47.6,
-      "max_delay_s": 35,
-      "snapshot_ts": 1789945907,
-      "route_name": "T1"
-    },
-    {
-      "route_id": "T2",
-      "n_trips_observed": 1,
-      "n_stop_updates": 18,
-      "n_skipped": 0,
-      "avg_delay_s": -92.4,
-      "max_delay_s": 8,
-      "snapshot_ts": 1789945907,
-      "route_name": "T2"
+      "alert_id": "7",
+      "routes": "5",
+      "header": "TEST MESSAGE SERVEUR IV",
+      "snapshot_ts": 1789952896
     }
-  ],
-  "alerts": []
+  ]
 }
