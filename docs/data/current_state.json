@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-10-04T21:49:03Z",
-  "network_avg_delay_s": -36.1,
-  "n_routes_reporting": 3,
-  "routes": [
-    {
-      "route_id": "T1",
-      "n_trips_observed": 10,
-      "n_stop_updates": 240,
-      "n_skipped": 0,
-      "avg_delay_s": -24.2,
-      "max_delay_s": 99,
-      "snapshot_ts": 1791150543,
-      "route_name": "T1"
-    },
-    {
-      "route_id": "T2",
-      "n_trips_observed": 8,
-      "n_stop_updates": 144,
-      "n_skipped": 0,
-      "avg_delay_s": -34.6,
-      "max_delay_s": 10,
-      "snapshot_ts": 1791150543,
-      "route_name": "T2"
-    },
-    {
-      "route_id": "T3",
-      "n_trips_observed": 2,
-      "n_stop_updates": 28,
-      "n_skipped": 0,
-      "avg_delay_s": -49.6,
-      "max_delay_s": 65,
-      "snapshot_ts": 1791150543,
-      "route_name": "T3"
-    }
-  ],
+  "generated_at": "2026-10-05T00:31:40Z",
+  "network_avg_delay_s": 0.0,
+  "n_routes_reporting": 0,
+  "routes": [],
   "alerts": []
 }
